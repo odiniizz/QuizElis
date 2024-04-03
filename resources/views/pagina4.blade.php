@@ -20,29 +20,33 @@
     <div class="form-check py-4">
       <input class="form-check-input" type="radio" name="pergunta" id="pergunta" value="A">
       <label class="form-check-label" for="pergunta">
-        Elis Regina teve que depor ao SNI (Serviço Nacional de Informações) durante o período da Ditadura Militar, devido
-        à uma entrevista, onde ela disse que o país era "governado por gorilas"
+        Elis Regina teve que depor ao SNI (Serviço Nacional de Informações), um órgão de coleta de informações e de 
+        inteligência criado durante o período da Ditadura Militar, devido à uma entrevista concedida à imprensa holandesa, 
+        onde ela disse que o país era "governado por gorilas".
       </label>
     </div>
 
     <div class="form-check py-4">
       <input class="form-check-input" type="radio" name="pergunta" id="pergunta" value="B">
       <label class="form-check-label" for="pergunta">
-        Elis ajudou a tirar Rita Lee, que estava grávida, da prisão durante o período da Ditadura Militar
+        Grávida de seu primeiro filho, Rita Lee teve a ajuda de Elis Regina para sair da prisão durante a ditadura militar.
       </label>
     </div>
 
     <div class="form-check py-4">
       <input class="form-check-input" type="radio" name="pergunta" id="pergunta" value="C">
       <label class="form-check-label" for="pergunta">
-        Elis Regina foi obrigada à cantar na cerimônia de abertura dos Jogos Olímpicos Militares
+        Elis Regina foi obrigada à cantar o Hino Nacional na cerimônia de abertura das Olímpiadas do Exército de 1972, 
+        e foi duramente criticada pela imprensa de esquerda, sendo acusada de colaborar com o regime.
       </label>
     </div>
 
     <div class="form-check py-4">
       <input class="form-check-input" type="radio" name="pergunta" id="pergunta" value="D">
       <label class="form-check-label" for="pergunta">
-        
+        Elis Regina fez sua primeira apresentação em São Paulo, na Rádio Difusora, no ano de 1956. Dias após, Os pais de Elis
+        foram contatados por gravadoras, que fizeram ofertas para lançarem Elis na indústria da música. 
+        Porém, seus pais recusaram, devido à idade.
       </label>
     </div>
 

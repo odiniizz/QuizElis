@@ -14,34 +14,34 @@
   @csrf
   <div class="form-group py-4">
     <label for="pergunta">
-      <strong>Qual premiação fez com que a carreira de Elis alavancasse, e qual música foi apresentada por ela?</strong>
+      <strong>Qual é o apelido de Elis Regina?</strong>
     </label>
 
     <div class="form-check py-4">
       <input class="form-check-input" type="radio" name="pergunta" id="pergunta" value="A">
       <label class="form-check-label" for="pergunta">
-        Meu Brasil Brasileiro, e a música foi "O Bêbado e o Equilibrista"
+        Raivinha
       </label>
     </div>
 
     <div class="form-check py-4">
       <input class="form-check-input" type="radio" name="pergunta" id="pergunta" value="B">
       <label class="form-check-label" for="pergunta">
-        O Fino da Bossa, e a música foi "Águas de Março"
+        Estrelinha
       </label>
     </div>
 
     <div class="form-check py-4">
       <input class="form-check-input" type="radio" name="pergunta" id="pergunta" value="C">
       <label class="form-check-label" for="pergunta">
-        Festival de Música Brasileira, e a música foi "Arrastão"
+      Pimentinha
       </label>
     </div>
 
     <div class="form-check py-4">
       <input class="form-check-input" type="radio" name="pergunta" id="pergunta" value="D">
       <label class="form-check-label" for="pergunta">
-        Jabuti, e a música foi "Madalena"
+        Esquentadinha
       </label>
     </div>
 
